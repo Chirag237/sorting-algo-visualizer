@@ -4,7 +4,7 @@ import './SortingVisualizer.css';
 
 const ANIMATION_SPEED_MS = 5;
 
-const NUMBER_OF_ARRAY_BARS = 80;
+const NUMBER_OF_ARRAY_BARS = 60;
 
 const PRIMARY_COLOR = 'white';
 
